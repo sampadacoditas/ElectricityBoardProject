@@ -1,0 +1,35 @@
+.icon {
+    font-size: 5rem;
+    text-align: center;
+    transform: translate(0%, -30%);
+    color: rgb(168, 0, 0);
+  }
+  .ProfileDetails {
+    display: flex;
+    justify-content: center;
+  
+    .Profile {
+      text-align: center;
+      transform: translate(0%, -30%);
+      display: flex;
+      justify-content: flex-start;
+      align-items: flex-start;
+      height: 6rem;
+      width: 10rem;
+    }
+  }
+  .Button
+  {
+      text-align: center;
+  }
+  .ResetPassword
+  {
+    position: absolute;
+    left:0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    transform: translate(-68%,-10%);
+  }
+  
+  

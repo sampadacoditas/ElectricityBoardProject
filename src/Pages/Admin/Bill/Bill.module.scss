@@ -1,0 +1,67 @@
+// .addCustomer
+//       {
+//         margin-top: 1rem;
+//         margin-left: 4rem;
+//         // margin-bottom:0 ;
+//         background-color: black;
+//         margin-left: 3rem;
+//         color: black;
+//         Button:hover
+//         {
+//           cursor: pointer;
+//           background-color: black;
+          
+//         }
+//       }
+// .customer
+// {
+//     margin-top: 0;
+//     padding-top: 0;
+//     // position: absolute;
+//     top: 2rem;
+//     right: 4rem;
+//     // height: 500px;
+//     // width: 50rem;
+// //    margin-bottom: 10rem;
+//     margin-left:-3rem;
+//     margin-right:7rem ;
+//     padding: 5rem;
+
+// }
+.addCustomer
+      {
+        margin-top: 1rem;
+        margin-left: 10rem;
+        // margin-bottom:0 ;
+        background-color: black;
+        // margin-left: 10rem;
+        
+        color: black;
+        Button
+        {
+            background-color: black;
+            margin-left: 3rem;
+        }
+        Button:hover
+        {
+          cursor: pointer;
+          background-color: black;
+          
+        }
+      }
+.customer
+{
+    margin-top: -3rem;
+    padding-top: 0;
+
+    // position: absolute;
+    top: 2rem;
+    right: 4rem;
+    // height: 500px;
+    // width: 50rem;
+//    margin-bottom: 10rem;
+    margin-left:-3rem;
+    margin-right:7rem ;
+    padding: 5rem;
+
+}
